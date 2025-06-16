@@ -1,4 +1,4 @@
-# 🕘 History Service – Spring Boot
+# 🕘 ChronoTrack Service – Spring Boot
 
 **ChronoTrack Service** es un microservicio REST desarrollado con **Spring Boot** y **Spring Data JPA**, diseñado para gestionar historiales de actividades o entidades dentro de una arquitectura basada en microservicios.
 
